@@ -11,7 +11,7 @@ a partir de la inversión en publicidad (miles de dólares) en tres medios:
 
 Dataset: Advertising (Kaggle) – https://www.kaggle.com/ashydv/advertising-dataset – 200 mercados, sin datos faltantes. 
 Archivo: advertising.csv.
-Notebook: regresion_lineal_advertising.ipynb
+
 
 Conclusiones
 
